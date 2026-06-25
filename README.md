@@ -58,59 +58,17 @@ const aziz = {
 
 ---
 
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Interview Coach</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/AI-Powered-EE4C2C?style=flat-square&logo=pytorch" />
-      </p>
-      <p>An intelligent interview prep platform with real-time AI feedback, question generation based on job roles, and performance analytics. Built with MERN + AI APIs.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 MERN Notes App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
-      </p>
-      <p>Full-featured notes application with auth, CRUD operations, middleware validation with Zod, and a clean React frontend. REST API built with Express.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌤️ React Weather App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/API-Integrated-F7DF1E?style=flat-square&logo=javascript" />
-      </p>
-      <p>A sleek weather app consuming real-time weather APIs, built with React hooks, state management, and responsive design.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 More Coming Soon...</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square" />
-      </p>
-      <p>Always cooking something new. Currently exploring AI + full stack integrations for my next big project. Stay tuned! 🚀</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apexcoderaziz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apexcoderaziz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apexcoderaziz&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 ---
@@ -119,7 +77,7 @@ const aziz = {
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/apexcoderaziz?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
