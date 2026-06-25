@@ -117,7 +117,7 @@ const aziz = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=apexcoderaziz&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
