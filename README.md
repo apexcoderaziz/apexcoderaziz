@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Aziz%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Azizul%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -15,14 +15,13 @@
 ## 🚀 About Me
 
 ```javascript
-const aziz = {
+const Azizul = {
   role:       "Full Stack Developer + AI/ML Explorer",
   stack:      ["MongoDB", "Express", "React", "Node.js"],
   ai:         ["Python", "PyTorch", "scikit-learn"],
   university: "AKTU-affiliated Institution",
-  goal:       "Land a product-based company via campus placements 🎯",
+  goal:       "Land a product-based company 🎯",
   currently:  "Building AI-powered web apps & grinding DSA",
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -86,11 +85,11 @@ const aziz = {
 ## 📈 Currently Learning
 
 ```
-🔷  System Design          ████████░░░░   In Progress
-🔶  DSA (Java)             ███████░░░░░   Active Grind
-🟣  React Advanced Hooks   █████████░░░   Almost There
+🔷  System Design           ████████░░░░   In Progress
+🔶  DSA (Java)              ███████░░░░░   Active Grind
+🟣  React Advanced Hooks    █████████░░░   Almost There
 🟢  PyTorch / Deep Learning ██████░░░░░░  Exploring
-🔵  Docker & DevOps        ████░░░░░░░░   Just Started
+🔵  Docker & DevOps         ████░░░░░░░░   Just Started
 ```
 
 ---
