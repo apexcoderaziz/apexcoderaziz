@@ -57,16 +57,6 @@ const Azizul = {
 
 ---
 
-## 🏆 LeetCode Stats
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/apexcoderaziz?theme=dark&font=Fira%20Code&ext=heatmap)
-
-</div>
-
----
-
 ## 📈 Currently Learning
 
 ```
