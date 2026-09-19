@@ -60,7 +60,6 @@ const Azizul = {
 ## 📈 Currently Learning
 
 ```
-🔷  System Design           ████████░░░░   In Progress
 🔶  DSA (Java)              ███████░░░░░   Active Grind
 🟣  React Advanced Hooks    █████████░░░   Almost There
 🟢  PyTorch / Deep Learning ██████░░░░░░  Exploring
